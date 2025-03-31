@@ -29,7 +29,7 @@ AtY0laUfhglK3lC7
 ## Project Structure
 
 ```
-cookie_analyzer/
+cookies-analyzer/
 ├── cookie_analyzer/           # Source code
 │   ├── analyzer.py            # CSV parsing and analysis
 │   ├── models.py              # Data structures
